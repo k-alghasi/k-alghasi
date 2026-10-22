@@ -4,11 +4,11 @@ Founder of [**VernaSoft**](https://vernasoft.ir) — a software development stud
 
 ### Expertise
 
-- **Backend:** Laravel 11, Filament 3, PHP 8.2+
-- **CMS:** WordPress, WooCommerce, Plugin & Theme Development
+- **Backend:** PHP, Python, Laravel
+- **CMS & Ecommerce:** WordPress, WooCommerce, Plugin & Theme Development and so.
 - **Frontend:** Tailwind CSS, Alpine.js, Blade
-- **Infrastructure:** Linux (HestiaCP, Nginx, PHP-FPM), MySQL, Redis
-- **Integrations:** REST API, Sanctum, Payment Gateways (Zarinpal), SMS (Kavenegar)
+- **Infrastructure:** Linux, MySQL, Redis
+- **Integrations:** REST API, Sanctum, Payment Gateways, AI, Organization Systems
 
 ### Featured Projects
 
